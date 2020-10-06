@@ -1,0 +1,8 @@
+github.com/Shyp/generate-tls-cert v0.0.0-20180217183001-cd913b339294 h1:fOiG++IZG2JD4aigPLz2TjKOg4FNEg3HrbhPoCkBS2c=
+github.com/Shyp/generate-tls-cert v0.0.0-20180217183001-cd913b339294/go.mod h1:yTfammXKX1AuKQjY4Kgo+Zoy7mRIAKx6HUa/SCtmNDg=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/gorilla/securecookie v1.1.1 h1:miw7JPhV+b/lAHSXz4qd/nN9jRiAFV5FwjeKyCS8BvQ=
+github.com/gorilla/securecookie v1.1.1/go.mod h1:ra0sb63/xPlUeL+yeDciTfxMRAA+MP+HVt/4epWDjd4=
+github.com/gorilla/sessions v1.2.1 h1:DHd3rPN5lE3Ts3D8rKkQ8x/0kqfeNmBAaiSi+o7FsgI=
+github.com/gorilla/sessions v1.2.1/go.mod h1:dk2InVEVJ0sfLlnXv9EAgkf6ecYs/i80K/zI+bUmuGM=
