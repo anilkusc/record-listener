@@ -2,7 +2,6 @@
   "name": "@coreui/coreui-free-react-admin-template",
   "version": "3.1.0",
   "description": "CoreUI React Open Source Bootstrap 4 Admin Template",
-  "proxy": "https://localhost:8080",  
   "author": {
     "name": "CoreUI",
     "url": "https://coreui.io",
