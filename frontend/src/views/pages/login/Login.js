@@ -61,7 +61,7 @@ export default class Login extends React.Component {
        .then(response => console.log(response))
        .then(data => this.handleRedirectLogin(data.authenticated)     
        );*/
-    fetch("http://localhost:8080/login", {
+    fetch("/backend/login", {
       body: "{\"username\":\"" + this.state.username + "\",\"password\":\"" + this.state.password + "\"}",
       headers: {
         "Content-Type": "application/x-www-form-urlencoded"

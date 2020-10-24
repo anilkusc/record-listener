@@ -42,7 +42,7 @@ export default class SearchForm extends React.Component {
       .then(response => response.json())
       .then(data => this.props.showForm(date,data));
 */
-    fetch("http://localhost:8080/list", {
+    fetch("/backend/list", {
       body: "{\"date\":\"" + date+ "\"}",
       headers: {
         "Content-Type": "application/x-www-form-urlencoded"

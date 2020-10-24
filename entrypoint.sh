@@ -1,3 +1,3 @@
 #!/bin/bash
-./backend &
-serve -s build -l 3000
+./app &
+nginx -g 'daemon off;'
